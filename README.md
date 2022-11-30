@@ -1,5 +1,7 @@
 👋🏿 Hi there. Im Ivoine
 
+I am a 17-year-old who writes complex code that a normal person cannot understand 
+
 <!--
 **ivoinestrachan/ivoinestrachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
