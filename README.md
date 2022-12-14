@@ -1,6 +1,11 @@
-👋🏿 Hi there. Im Ivoine
+Hi there! My name is Ivoine and I am a teenager who is passionate about computer science and technology. I have been interested in coding since I was a young child, and I have been teaching myself through online courses and personal projects.
 
-I am a 17-year-old who writes complex code that a normal person cannot understand 
+I am excited to join the GitHub community and share my journey with others. As a teenager, I am still learning and growing, and I am motivated by the idea of sharing my experiences and receiving feedback from others. I hope to learn from other developers, build my skills, and create interesting and useful projects.
+
+Thank you for joining me on this journey. I look forward to learning and growing together!
+
+"Being a high school dropout is a challenge, not a barrier. Focus on your passions and pursue your dreams. You can shape your own future and achieve anything you set your mind to."
+
 
 <!--
 **ivoinestrachan/ivoinestrachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
