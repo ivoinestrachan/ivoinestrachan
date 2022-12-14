@@ -1,10 +1,9 @@
-Hi there! My name is Ivoine and I am a teenager who is passionate about computer science and technology. I have been interested in coding since I was a young child, and I have been teaching myself through online courses and personal projects.
+Hi there! My name is Ivoine and I am a high school dropout who is passionate about Coding. I have always been interested in Coding, and I have been teaching myself through online courses and personal projects.
 
-I am excited to join the GitHub community and share my journey with others. As a teenager, I am still learning and growing, and I am motivated by the idea of sharing my experiences and receiving feedback from others. I hope to learn from other developers, build my skills, and create interesting and useful projects.
+Although I did not graduate from high school, I have not let that stop me from pursuing my dreams. I am a self-starter and a lifelong learner, and I am constantly seeking new opportunities to learn and grow.
 
-Thank you for joining me on this journey. I look forward to learning and growing together!
+Thank you for taking the time to get to know me. I look forward to learning and growing together!
 
-"Being a high school dropout is a challenge, not a barrier. Focus on your passions and pursue your dreams. You can shape your own future and achieve anything you set your mind to."
 
 
 <!--
