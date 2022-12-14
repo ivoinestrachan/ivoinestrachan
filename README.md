@@ -1,4 +1,4 @@
-Hi there! My name is [Name] and I am a 🎓high school dropout🎓 who is passionate about 💻computer science and technology💻. I have always been fascinated by the 🌟power of code🌟, and I have been self-taught since I was a teenager.
+Hi there! My name is Ivoine and I am a 🎓high school dropout🎓 who is passionate about 💻computer science and technology💻. I have always been fascinated by the 🌟power of code🌟, and I have been self-taught since I was a teenager.
 
 I am excited to join the 🌎GitHub community🌎 and share my journey with others. My goal is to 💡learn from other developers💡, build my skills, and create interesting and useful projects. I am also motivated by the idea of using 🤖technology to make a positive impact in the world🤖, and I hope to collaborate with others who share this vision.
 
